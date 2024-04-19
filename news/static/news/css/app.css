@@ -1,0 +1,25 @@
+.jumbotron{
+    margin-top: 200px;
+    background: red;
+    color: white;
+    border-radius: 40px 15px ;
+}
+body{
+    background: url('../images/bac.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    font-size: 30px;
+    text-align: center;
+}
+
+.navbar-movies,a{
+    margin: 5px;
+    padding: 5px;
+}
